@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Developer:** Ariful Islam  
-**Email:** [your-email@example.com]  
+**Email:** [arif.cuet129@gmail.com]  
 **GitHub:** [@Ariful129](https://github.com/Ariful129)
 
 ## Acknowledgments
